@@ -1,0 +1,20 @@
+[
+    {
+        "loai": "Chi",
+        "tien": 1000000.0,
+        "danh_muc": "sửa xe",
+        "ghi_chu": ""
+    },
+    {
+        "loai": "Thu",
+        "tien": 5000000.0,
+        "danh_muc": "bmbank",
+        "ghi_chu": "tháng 6"
+    },
+    {
+        "loai": "Chi",
+        "tien": 45000.0,
+        "danh_muc": "ăn sáng",
+        "ghi_chu": ""
+    }
+]
